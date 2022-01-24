@@ -3,10 +3,3 @@
 * {
   font-family: "Poppins", sans-serif;
 }
-.answer {
-  display: none;
-}
-
-.question:hover > .answer {
-  display: block;
-}
