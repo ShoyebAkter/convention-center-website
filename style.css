@@ -1,3 +1,10 @@
 * {
   font-size: 30px;
 }
+.answer {
+  display: none;
+}
+
+.question:hover > .answer {
+  display: block;
+}
